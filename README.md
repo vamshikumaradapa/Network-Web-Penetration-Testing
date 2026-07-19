@@ -25,7 +25,7 @@ The assessment covers both network-level and web application security testing wh
 | **Target** | Metasploitable 2 |
 | **Web Application** | DVWA |
 | **Virtualization** | Oracle VirtualBox |
-| **GitHub** | https://github.com/nayuniganesh |
+| **GitHub** | https://github.com/vamshikumaradapa |
 
 ---
 
@@ -141,4 +141,4 @@ Metasploitable2-Penetration-Testing-Lab/
 
 Cybersecurity Enthusiast
 
-GitHub: https://github.com/nayuniganesh
+GitHub: https://github.com/vamshikumaradapa 
