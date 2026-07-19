@@ -1,45 +1,49 @@
 # Metasploitable 2 Penetration Testing Lab
 
-## About the Project
+A hands-on penetration testing project demonstrating the assessment of common network and web application vulnerabilities in a controlled virtual laboratory environment using Kali Linux, Metasploitable 2, and DVWA.
 
-This project was completed as part of my cybersecurity learning and practice. The objective was to understand how common network and web application vulnerabilities can be identified and assessed in a safe and controlled lab environment.
-
-For this project, I used **Kali Linux** as the attacker machine and **Metasploitable 2** as the target machine. I also used **DVWA (Damn Vulnerable Web Application)** to practice web application security testing. All testing was performed inside VirtualBox on a local virtual network.
-
-> **Note:** This project was performed only in an isolated lab environment for educational purposes. No unauthorized systems were targeted.
+> **Disclaimer:** This project was conducted exclusively in an isolated lab environment using intentionally vulnerable systems. It is intended for educational purposes, cybersecurity skill development, and portfolio demonstration only.
 
 ---
 
-## Student Information
+## Project Overview
 
-**Name:** Nayuni Ganesh
+This project documents a complete penetration testing assessment performed against Metasploitable 2 and Damn Vulnerable Web Application (DVWA). The objective was to gain practical experience in reconnaissance, service enumeration, vulnerability assessment, and web application security testing using industry-standard tools.
 
-**College:** Viswam Engineering College
+The assessment covers both network-level and web application security testing while following a structured penetration testing methodology.
 
-**Department:** Computer Science and Engineering (CSE)
+---
 
-**Year:** 4th Year
+## Project Information
 
-**GitHub:** https://github.com/nayuniganesh
+| Field | Details |
+|--------|---------|
+| **Author** | Nayuni Ganesh |
+| **Project Type** | Penetration Testing Laboratory |
+| **Category** | Cybersecurity |
+| **Platform** | Kali Linux |
+| **Target** | Metasploitable 2 |
+| **Web Application** | DVWA |
+| **Virtualization** | Oracle VirtualBox |
+| **GitHub** | https://github.com/nayuniganesh |
 
 ---
 
 ## Lab Environment
 
-- Attacker Machine: Kali Linux (Latest Version)
-- Target Machine: Metasploitable 2
-- Web Application: DVWA
-- Virtualization Software: VirtualBox
-- Environment: Local Virtual Lab
+| Component | Description |
+|-----------|-------------|
+| Attacker Machine | Kali Linux (Latest Version) |
+| Target Machine | Metasploitable 2 |
+| Web Application | Damn Vulnerable Web Application (DVWA) |
+| Virtualization Platform | Oracle VirtualBox |
+| Environment | Isolated Local Virtual Lab |
 
 ---
 
 ## Tools Used
 
 - Kali Linux
-- Metasploitable 2
-- DVWA
-- VirtualBox
 - Nmap
 - Metasploit Framework
 - Hydra
@@ -48,32 +52,24 @@ For this project, I used **Kali Linux** as the attacker machine and **Metasploit
 - Wireshark
 - MySQL Client
 - Firefox Browser
+- DVWA
+- Oracle VirtualBox
 
 ---
 
-## Project Objectives
+## Assessment Scope
 
-- Learn penetration testing in a safe lab environment.
-- Perform network reconnaissance.
-- Identify vulnerable services.
-- Test common network vulnerabilities.
-- Practice web application security testing.
-- Document findings and recommend security improvements.
+### Network Security
 
----
-
-## Attacks Performed
-
-### Network Security Assessment
-
-- Reconnaissance (Nmap Scanning)
-- VSFTPD Service Assessment
+- Network Reconnaissance
+- Service Enumeration
+- VSFTPD Assessment
 - SSH Authentication Assessment
 - Password Hash Analysis
-- Telnet Assessment
+- Telnet Security Assessment
 - MySQL Assessment
 
-### Web Application Security Assessment
+### Web Application Security
 
 - SQL Injection
 - Cross-Site Scripting (XSS)
@@ -113,23 +109,29 @@ Metasploitable2-Penetration-Testing-Lab/
 
 ---
 
-## What I Learned
+## Skills Demonstrated
 
-Through this project, I learned how to:
-
-- Perform network scanning and service enumeration.
-- Identify vulnerable services running on a target machine.
-- Understand password security and authentication weaknesses.
-- Analyze network traffic using Wireshark.
-- Test common web application vulnerabilities.
-- Document security findings in a professional report.
-- Understand the importance of secure system configuration and input validation.
+- Penetration Testing
+- Network Reconnaissance
+- Service Enumeration
+- Password Security Assessment
+- Network Traffic Analysis
+- Web Application Security Testing
+- Vulnerability Assessment
+- Security Documentation
+- Technical Reporting
 
 ---
 
-## Disclaimer
+## Key Learning Outcomes
 
-This project was conducted only in a controlled virtual laboratory using intentionally vulnerable systems (Metasploitable 2 and DVWA). It is shared for educational and defensive cybersecurity learning purposes only.
+- Performed network reconnaissance and service enumeration.
+- Assessed vulnerable network services in a controlled environment.
+- Analyzed password security using hash analysis techniques.
+- Captured and analyzed network traffic using Wireshark.
+- Identified common web application vulnerabilities.
+- Documented findings and proposed mitigation strategies.
+- Strengthened practical knowledge of penetration testing methodology.
 
 ---
 
@@ -137,8 +139,6 @@ This project was conducted only in a controlled virtual laboratory using intenti
 
 **Nayuni Ganesh**
 
-B.Tech – Computer Science and Engineering
-
-Viswam Engineering College
+Cybersecurity Enthusiast
 
 GitHub: https://github.com/nayuniganesh
