@@ -18,7 +18,7 @@ The assessment covers both network-level and web application security testing wh
 
 | Field | Details |
 |--------|---------|
-| **Author** | Nayuni Ganesh |
+| **Author** | Adapa vamshi kumar |
 | **Project Type** | Penetration Testing Laboratory |
 | **Category** | Cybersecurity |
 | **Platform** | Kali Linux |
@@ -137,7 +137,7 @@ Metasploitable2-Penetration-Testing-Lab/
 
 ## Author
 
-**Nayuni Ganesh**
+**Adapa vamshi kumar**
 
 Cybersecurity Enthusiast
 
