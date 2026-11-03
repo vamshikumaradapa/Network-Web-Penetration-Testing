@@ -1,4 +1,4 @@
-# Metasploitable 2 Penetration Testing Lab
+# Network & Web Penetration Testing
 
 A hands-on penetration testing project demonstrating the assessment of common network and web application vulnerabilities in a controlled virtual laboratory environment using Kali Linux, Metasploitable 2, and DVWA.
 
